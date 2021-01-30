@@ -2,6 +2,8 @@
 
 <img src="https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg" alt="">
 
+## [Day 2 Lecture](https://youtu.be/Xhrf-aCFocc)   👈👈
+
 
 **DAY 02 AGENDA**
 - Loops
@@ -28,4 +30,4 @@ Sets are unordered set() method is used to convert any of the iterable to sequen
 
 Dictionary in Python is an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element.
 
-## [Day 2 Lecture](https://youtu.be/Xhrf-aCFocc)   👈👈
+
